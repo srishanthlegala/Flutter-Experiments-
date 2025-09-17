@@ -9,7 +9,7 @@
 
 ---
 
-✨ Here you’ll find some cool Dart & Flutter programs crafted by **bnpranavika** ✨  
+✨ Here you’ll find some cool Dart & Flutter programs crafted by **SrishanthLegala** ✨  
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" />  
 
@@ -79,5 +79,5 @@ Think of this as your **handy cookbook of Flutter widgets** 👩‍💻👨‍�
 ---
 
 ## 🔗 Connect with me  
-[![GitHub](https://img.shields.io/badge/GitHub-bnpranavika-black?logo=github&style=for-the-badge)](https://github.com/bnpranavika)  
+[![GitHub](https://img.shields.io/badge/GitHub-SrishanthLegala-black?logo=github&style=for-the-badge)](https://github.com/SrishanthLegala)  
 
